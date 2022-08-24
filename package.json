@@ -14,12 +14,13 @@
     "@types/react": "16.8.2",
     "@types/react-dom": "16.8.0",
     "@types/react-transition-group": "^4.2.4",
-    "react-transition-group": "^4.4.1",
     "primeflex": "^3.2.1",
     "primeicons": "^5.0.0",
     "primereact": "^8.4.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
+    "react-transition-group": "^4.4.1"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",
